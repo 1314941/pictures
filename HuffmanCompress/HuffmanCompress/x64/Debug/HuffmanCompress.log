@@ -1,0 +1,10 @@
+﻿  Compress.cpp
+D:\adesktop\vscode\multiple_c++\数据结构实验一Huffman文件压缩\Compress.cpp(66,28): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\adesktop\vscode\multiple_c++\数据结构实验一Huffman文件压缩\Compress.cpp(13,12): warning C4101: “j”: 未引用的局部变量
+D:\adesktop\vscode\multiple_c++\数据结构实验一Huffman文件压缩\Compress.cpp(140,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\adesktop\vscode\multiple_c++\数据结构实验一Huffman文件压缩\Compress.cpp(174,9): warning C4101: “ch”: 未引用的局部变量
+  Huffman.cpp
+D:\adesktop\vscode\multiple_c++\数据结构实验一Huffman文件压缩\Huffman.cpp(90,9): warning C4101: “i”: 未引用的局部变量
+  Main.cpp
+  正在生成代码...
+  HuffmanCompress.vcxproj -> D:\adesktop\vsIDE\HuffmanCompress\x64\Debug\HuffmanCompress.exe
